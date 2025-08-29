@@ -35,6 +35,8 @@ setupToggleHeart(document.getElementById("toggleHeart8"), likeCount);
 setupToggleHeart(document.getElementById("toggleHeart9"), likeCount);
 
 
+
+
 // call history and coin
 let coins = 100; 
 const coinDisplay = document.getElementById("coin-balance"); 
